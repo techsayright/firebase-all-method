@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "email": "abc.test.com",
+      "password": "123ab",
+      "address": "Rajkot",
+      "website": "abc.com"
+    },
+    {
+      "email": "sd@fma.comff",
+      "password": "3423",
+      "address": "kuch hai",
+      "website": "ohh.com",
+      "id": 5
+    }
+  ]
+}
